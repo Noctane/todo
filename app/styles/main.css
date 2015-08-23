@@ -81,3 +81,8 @@ body {
     border-bottom: 0;
   }
 }
+
+.todo-items {
+  padding: 5px 10px;
+  cursor: move;
+}
